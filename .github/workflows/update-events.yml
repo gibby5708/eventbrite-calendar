@@ -1,4 +1,4 @@
-name: Update Eventbrite events and deploy calendar
+name: Update Eventbrite events
 
 on:
   workflow_dispatch:
@@ -7,11 +7,9 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: update-events
   cancel-in-progress: false
 
 jobs:
@@ -40,14 +38,3 @@ jobs:
           git add events.json
           git diff --cached --quiet || git commit -m "Update Eventbrite events"
           git push
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
-      - name: Deploy to Pages
-        uses: actions/deploy-pages@v4
