@@ -1,5 +1,2670 @@
 {
-  "events": [],
-  "updatedAt": null,
-  "message": "Events will appear after the GitHub Action runs."
+  "events": [
+    {
+      "id": "1988530585511",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988530585511",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482122%2F539141404543%2F1%2Foriginal.20260430-234340?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9d1c4a1bb6f9d609a33cf595f7d98952",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482122%2F539141404543%2F1%2Foriginal.20260430-234340?auto=format%2Ccompress&q=75&sharp=10&s=8c58f2f14885fcadfe3b720e4c64a6f6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-10T11:00:00",
+        "utc": "2026-08-10T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-10T12:00:00",
+        "utc": "2026-08-10T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988530863342",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988530863342",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-12T09:30:00",
+        "utc": "2026-08-12T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-12T10:30:00",
+        "utc": "2026-08-12T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988599267942",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988599267942",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-12T11:30:00",
+        "utc": "2026-08-12T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-12T12:30:00",
+        "utc": "2026-08-12T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988599482584",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988599482584",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-12T13:00:00",
+        "utc": "2026-08-12T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-12T14:00:00",
+        "utc": "2026-08-12T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988597772469",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988597772469",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-13T07:00:00",
+        "utc": "2026-08-13T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-13T08:00:00",
+        "utc": "2026-08-13T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1993567072780",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-1993567072780",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-13T11:00:00",
+        "utc": "2026-08-13T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-13T12:15:00",
+        "utc": "2026-08-13T19:15:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988530620616",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988530620616",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482212%2F539141404543%2F1%2Foriginal.20260430-234452?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.229&fp-y=0.52&s=03f2145f0e736f0237cf0a6bac524961",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482212%2F539141404543%2F1%2Foriginal.20260430-234452?auto=format%2Ccompress&q=75&sharp=10&s=b09e59ac43aae44175ca744ce8e0d244"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-17T11:00:00",
+        "utc": "2026-08-17T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-17T12:00:00",
+        "utc": "2026-08-17T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988530947594",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988530947594",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-19T09:30:00",
+        "utc": "2026-08-19T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-19T10:30:00",
+        "utc": "2026-08-19T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988599349185",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988599349185",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-19T11:30:00",
+        "utc": "2026-08-19T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-19T12:30:00",
+        "utc": "2026-08-19T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988599652091",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988599652091",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-19T13:00:00",
+        "utc": "2026-08-19T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-19T14:00:00",
+        "utc": "2026-08-19T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1975644648326",
+      "name": {
+        "text": "525 Men's Group",
+        "html": "525 Men&#39;s Group"
+      },
+      "summary": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support.",
+      "description": {
+        "text": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support."
+      },
+      "url": "https://www.eventbrite.com/e/525-mens-group-tickets-1975644648326",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188251225%2F539141404543%2F1%2Foriginal.20260705-222708?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.03&fp-y=0.308&s=ab2ae062e03a5f028a47128648acc357",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188251225%2F539141404543%2F1%2Foriginal.20260705-222708?auto=format%2Ccompress&q=75&sharp=10&s=495f67f9f7ddadc892517fe85acb0a9c"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2026-08-19T17:00:00",
+        "utc": "2026-08-20T00:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2026-08-19T19:00:00",
+        "utc": "2026-08-20T02:00:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Spokes On Southern",
+        "address": {
+          "localized_address_display": "1470 East Southern Avenue, Tempe, AZ 85282",
+          "address_1": "1470 East Southern Avenue"
+        }
+      }
+    },
+    {
+      "id": "1988598250900",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988598250900",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-20T07:00:00",
+        "utc": "2026-08-20T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-20T08:00:00",
+        "utc": "2026-08-20T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1993567648502",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-1993567648502",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-20T11:00:00",
+        "utc": "2026-08-20T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-20T12:15:00",
+        "utc": "2026-08-20T19:15:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988530717907",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988530717907",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482277%2F539141404543%2F1%2Foriginal.20260430-234611?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.161&fp-y=0.498&s=58a7d7ca814d5786931bb5405c11fe20",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482277%2F539141404543%2F1%2Foriginal.20260430-234611?auto=format%2Ccompress&q=75&sharp=10&s=8c2eeb327d2362411b715ae8ed0dcf48"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-24T11:00:00",
+        "utc": "2026-08-24T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-24T12:00:00",
+        "utc": "2026-08-24T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988530971666",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988530971666",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-26T09:30:00",
+        "utc": "2026-08-26T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-26T10:30:00",
+        "utc": "2026-08-26T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988599430428",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988599430428",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-26T11:30:00",
+        "utc": "2026-08-26T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-26T12:30:00",
+        "utc": "2026-08-26T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988599679172",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988599679172",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-26T13:00:00",
+        "utc": "2026-08-26T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-26T14:00:00",
+        "utc": "2026-08-26T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988598972057",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988598972057",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-27T07:00:00",
+        "utc": "2026-08-27T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-27T08:00:00",
+        "utc": "2026-08-27T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1993567699655",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-1993567699655",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-27T11:00:00",
+        "utc": "2026-08-27T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-27T12:15:00",
+        "utc": "2026-08-27T19:15:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988530749000",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988530749000",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.516&s=692d7e87d169c448a9afef4870b05eab",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?auto=format%2Ccompress&q=75&sharp=10&s=02229506538496dc98168377693f50cb"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-31T11:00:00",
+        "utc": "2026-08-31T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-08-31T12:00:00",
+        "utc": "2026-08-31T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988600040252",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988600040252",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-02T09:30:00",
+        "utc": "2026-09-02T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-02T10:30:00",
+        "utc": "2026-09-02T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988600258906",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988600258906",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-02T11:30:00",
+        "utc": "2026-09-02T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-02T12:30:00",
+        "utc": "2026-09-02T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988600423398",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988600423398",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-02T13:00:00",
+        "utc": "2026-09-02T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-02T14:00:00",
+        "utc": "2026-09-02T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988600969030",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988600969030",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-03T07:00:00",
+        "utc": "2026-09-03T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-03T08:00:00",
+        "utc": "2026-09-03T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1993567795943",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-1993567795943",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-03T11:00:00",
+        "utc": "2026-09-03T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-03T12:15:00",
+        "utc": "2026-09-03T19:15:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988599740355",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988599740355",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.516&s=692d7e87d169c448a9afef4870b05eab",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?auto=format%2Ccompress&q=75&sharp=10&s=02229506538496dc98168377693f50cb"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-07T11:00:00",
+        "utc": "2026-09-07T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-07T12:00:00",
+        "utc": "2026-09-07T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988601116471",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988601116471",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-09T09:30:00",
+        "utc": "2026-09-09T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-09T10:30:00",
+        "utc": "2026-09-09T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988601442446",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988601442446",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-09T11:30:00",
+        "utc": "2026-09-09T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-09T12:30:00",
+        "utc": "2026-09-09T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988601609947",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988601609947",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-09T13:00:00",
+        "utc": "2026-09-09T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-09T14:00:00",
+        "utc": "2026-09-09T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988601724289",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988601724289",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-10T07:00:00",
+        "utc": "2026-09-10T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-10T08:00:00",
+        "utc": "2026-09-10T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1993569540160",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-1993569540160",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-10T11:00:00",
+        "utc": "2026-09-10T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-10T12:15:00",
+        "utc": "2026-09-10T19:15:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988599809562",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988599809562",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.516&s=692d7e87d169c448a9afef4870b05eab",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?auto=format%2Ccompress&q=75&sharp=10&s=02229506538496dc98168377693f50cb"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-14T11:00:00",
+        "utc": "2026-09-14T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-14T12:00:00",
+        "utc": "2026-09-14T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988601209750",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988601209750",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-16T09:30:00",
+        "utc": "2026-09-16T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-16T10:30:00",
+        "utc": "2026-09-16T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988601502626",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988601502626",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-16T11:30:00",
+        "utc": "2026-09-16T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-16T12:30:00",
+        "utc": "2026-09-16T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988601650067",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988601650067",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-16T13:00:00",
+        "utc": "2026-09-16T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-16T14:00:00",
+        "utc": "2026-09-16T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1975644649329",
+      "name": {
+        "text": "525 Men's Group",
+        "html": "525 Men&#39;s Group"
+      },
+      "summary": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support.",
+      "description": {
+        "text": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support."
+      },
+      "url": "https://www.eventbrite.com/e/525-mens-group-tickets-1975644649329",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188251225%2F539141404543%2F1%2Foriginal.20260705-222708?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.03&fp-y=0.308&s=ab2ae062e03a5f028a47128648acc357",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188251225%2F539141404543%2F1%2Foriginal.20260705-222708?auto=format%2Ccompress&q=75&sharp=10&s=495f67f9f7ddadc892517fe85acb0a9c"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2026-09-16T17:00:00",
+        "utc": "2026-09-17T00:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2026-09-16T19:00:00",
+        "utc": "2026-09-17T02:00:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Spokes On Southern",
+        "address": {
+          "localized_address_display": "1470 East Southern Avenue, Tempe, AZ 85282",
+          "address_1": "1470 East Southern Avenue"
+        }
+      }
+    },
+    {
+      "id": "1988602098408",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988602098408",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-17T07:00:00",
+        "utc": "2026-09-17T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-17T08:00:00",
+        "utc": "2026-09-17T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1993569669547",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-1993569669547",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-17T11:00:00",
+        "utc": "2026-09-17T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-17T12:15:00",
+        "utc": "2026-09-17T19:15:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988599838649",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988599838649",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.516&s=692d7e87d169c448a9afef4870b05eab",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?auto=format%2Ccompress&q=75&sharp=10&s=02229506538496dc98168377693f50cb"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-21T11:00:00",
+        "utc": "2026-09-21T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-21T12:00:00",
+        "utc": "2026-09-21T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988601308044",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988601308044",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-23T09:30:00",
+        "utc": "2026-09-23T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-23T10:30:00",
+        "utc": "2026-09-23T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988601555785",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988601555785",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-23T11:30:00",
+        "utc": "2026-09-23T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-23T12:30:00",
+        "utc": "2026-09-23T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988601672133",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988601672133",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-23T13:00:00",
+        "utc": "2026-09-23T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-23T14:00:00",
+        "utc": "2026-09-23T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988602145549",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988602145549",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-24T07:00:00",
+        "utc": "2026-09-24T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-24T08:00:00",
+        "utc": "2026-09-24T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1993569703649",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-1993569703649",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-24T11:00:00",
+        "utc": "2026-09-24T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-24T12:15:00",
+        "utc": "2026-09-24T19:15:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1992001604422",
+      "name": {
+        "text": "Authoritypreneur Summit",
+        "html": "Authoritypreneur Summit"
+      },
+      "summary": "Pages. Stages. Engages. Conversions. Turn Authority Into Opportunity.\nWhere Your Expertise Becomes Influence, Impact & Income.",
+      "description": {
+        "text": "Pages. Stages. Engages. Conversions. Turn Authority Into Opportunity.\nWhere Your Expertise Becomes Influence, Impact & Income."
+      },
+      "url": "https://www.eventbrite.com/e/authoritypreneur-summit-registration-1992001604422",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187662466%2F539141404543%2F1%2Foriginal.20260625-185915?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.492&fp-y=0.431&s=1a0c74dfb32ad92e5fad6cbd6a9d0198",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187662466%2F539141404543%2F1%2Foriginal.20260625-185915?auto=format%2Ccompress&q=75&sharp=10&s=5f4937af9667beb2fe7a538c6b8f305d"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2026-09-25T08:30:00",
+        "utc": "2026-09-25T15:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2026-09-26T17:00:00",
+        "utc": "2026-09-27T00:00:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Courtyard by Marriott Scottsdale Salt River",
+        "address": {
+          "localized_address_display": "5201 North Pima Road, Scottsdale, AZ 85250",
+          "address_1": "5201 North Pima Road"
+        }
+      }
+    },
+    {
+      "id": "1988599899832",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988599899832",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.516&s=692d7e87d169c448a9afef4870b05eab",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?auto=format%2Ccompress&q=75&sharp=10&s=02229506538496dc98168377693f50cb"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-28T11:00:00",
+        "utc": "2026-09-28T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-28T12:00:00",
+        "utc": "2026-09-28T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988601389287",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988601389287",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-30T09:30:00",
+        "utc": "2026-09-30T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-30T10:30:00",
+        "utc": "2026-09-30T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988601578854",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988601578854",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-30T11:30:00",
+        "utc": "2026-09-30T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-30T12:30:00",
+        "utc": "2026-09-30T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988601705232",
+      "name": {
+        "text": "Copy of WOW Networking",
+        "html": "Copy of WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/copy-of-wow-networking-tickets-1988601705232",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-30T13:00:00",
+        "utc": "2026-09-30T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-09-30T14:00:00",
+        "utc": "2026-09-30T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988602487572",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988602487572",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-01T07:00:00",
+        "utc": "2026-10-01T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-01T08:00:00",
+        "utc": "2026-10-01T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988602182660",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988602182660",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.516&s=692d7e87d169c448a9afef4870b05eab",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?auto=format%2Ccompress&q=75&sharp=10&s=02229506538496dc98168377693f50cb"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-05T11:00:00",
+        "utc": "2026-10-05T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-05T12:00:00",
+        "utc": "2026-10-05T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988602204726",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988602204726",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-07T09:30:00",
+        "utc": "2026-10-07T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-07T10:30:00",
+        "utc": "2026-10-07T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988602219771",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988602219771",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-07T11:30:00",
+        "utc": "2026-10-07T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-07T12:30:00",
+        "utc": "2026-10-07T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988602264906",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988602264906",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-07T13:00:00",
+        "utc": "2026-10-07T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-07T14:00:00",
+        "utc": "2026-10-07T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988648766995",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988648766995",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-08T07:00:00",
+        "utc": "2026-10-08T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-08T08:00:00",
+        "utc": "2026-10-08T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988602508635",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988602508635",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.516&s=692d7e87d169c448a9afef4870b05eab",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?auto=format%2Ccompress&q=75&sharp=10&s=02229506538496dc98168377693f50cb"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-12T11:00:00",
+        "utc": "2026-10-12T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-12T12:00:00",
+        "utc": "2026-10-12T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988602564803",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988602564803",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-14T09:30:00",
+        "utc": "2026-10-14T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-14T10:30:00",
+        "utc": "2026-10-14T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988648098997",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988648098997",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-14T11:30:00",
+        "utc": "2026-10-14T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-14T12:30:00",
+        "utc": "2026-10-14T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988648413939",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988648413939",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-14T13:00:00",
+        "utc": "2026-10-14T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-14T14:00:00",
+        "utc": "2026-10-14T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988648923463",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988648923463",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-15T07:00:00",
+        "utc": "2026-10-15T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-15T08:00:00",
+        "utc": "2026-10-15T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988602594893",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988602594893",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-21T09:30:00",
+        "utc": "2026-10-21T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-21T10:30:00",
+        "utc": "2026-10-21T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988648152156",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988648152156",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-21T11:30:00",
+        "utc": "2026-10-21T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-21T12:30:00",
+        "utc": "2026-10-21T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988648591470",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988648591470",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-21T13:00:00",
+        "utc": "2026-10-21T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-21T14:00:00",
+        "utc": "2026-10-21T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1975644650332",
+      "name": {
+        "text": "525 Men's Group",
+        "html": "525 Men&#39;s Group"
+      },
+      "summary": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support.",
+      "description": {
+        "text": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support."
+      },
+      "url": "https://www.eventbrite.com/e/525-mens-group-tickets-1975644650332",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188251225%2F539141404543%2F1%2Foriginal.20260705-222708?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.03&fp-y=0.308&s=ab2ae062e03a5f028a47128648acc357",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188251225%2F539141404543%2F1%2Foriginal.20260705-222708?auto=format%2Ccompress&q=75&sharp=10&s=495f67f9f7ddadc892517fe85acb0a9c"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2026-10-21T17:00:00",
+        "utc": "2026-10-22T00:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2026-10-21T19:00:00",
+        "utc": "2026-10-22T02:00:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Spokes On Southern",
+        "address": {
+          "localized_address_display": "1470 East Southern Avenue, Tempe, AZ 85282",
+          "address_1": "1470 East Southern Avenue"
+        }
+      }
+    },
+    {
+      "id": "1988649101997",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988649101997",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-22T07:00:00",
+        "utc": "2026-10-22T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-22T08:00:00",
+        "utc": "2026-10-22T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988602546749",
+      "name": {
+        "text": "Global Networking",
+        "html": "Global Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/global-networking-tickets-1988602546749",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.516&s=692d7e87d169c448a9afef4870b05eab",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183482387%2F539141404543%2F1%2Foriginal.20260430-234740?auto=format%2Ccompress&q=75&sharp=10&s=02229506538496dc98168377693f50cb"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-26T11:00:00",
+        "utc": "2026-10-26T18:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-26T12:00:00",
+        "utc": "2026-10-26T19:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988602631001",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988602631001",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-28T09:30:00",
+        "utc": "2026-10-28T16:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-28T10:30:00",
+        "utc": "2026-10-28T17:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "1988648365795",
+      "name": {
+        "text": "Mesa Arizona Business Networking",
+        "html": "Mesa Arizona Business Networking"
+      },
+      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "description": {
+        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+      },
+      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988648365795",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-28T11:30:00",
+        "utc": "2026-10-28T18:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-28T12:30:00",
+        "utc": "2026-10-28T19:30:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "The HUB Grill and Bar",
+        "address": {
+          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
+          "address_1": "1925 South Sossaman Road"
+        }
+      }
+    },
+    {
+      "id": "1988648692773",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988648692773",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-28T13:00:00",
+        "utc": "2026-10-28T20:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-28T14:00:00",
+        "utc": "2026-10-28T21:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1988649939502",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988649939502",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-29T07:00:00",
+        "utc": "2026-10-29T14:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2026-10-29T08:00:00",
+        "utc": "2026-10-29T15:00:00Z"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "1975644651335",
+      "name": {
+        "text": "525 Men's Group",
+        "html": "525 Men&#39;s Group"
+      },
+      "summary": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support.",
+      "description": {
+        "text": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support."
+      },
+      "url": "https://www.eventbrite.com/e/525-mens-group-tickets-1975644651335",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188251225%2F539141404543%2F1%2Foriginal.20260705-222708?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.03&fp-y=0.308&s=ab2ae062e03a5f028a47128648acc357",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188251225%2F539141404543%2F1%2Foriginal.20260705-222708?auto=format%2Ccompress&q=75&sharp=10&s=495f67f9f7ddadc892517fe85acb0a9c"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2026-11-18T17:00:00",
+        "utc": "2026-11-19T00:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2026-11-18T19:00:00",
+        "utc": "2026-11-19T02:00:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Spokes On Southern",
+        "address": {
+          "localized_address_display": "1470 East Southern Avenue, Tempe, AZ 85282",
+          "address_1": "1470 East Southern Avenue"
+        }
+      }
+    },
+    {
+      "id": "1975644652338",
+      "name": {
+        "text": "525 Men's Group",
+        "html": "525 Men&#39;s Group"
+      },
+      "summary": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support.",
+      "description": {
+        "text": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support."
+      },
+      "url": "https://www.eventbrite.com/e/525-mens-group-tickets-1975644652338",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188251225%2F539141404543%2F1%2Foriginal.20260705-222708?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.03&fp-y=0.308&s=ab2ae062e03a5f028a47128648acc357",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188251225%2F539141404543%2F1%2Foriginal.20260705-222708?auto=format%2Ccompress&q=75&sharp=10&s=495f67f9f7ddadc892517fe85acb0a9c"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2026-12-16T17:00:00",
+        "utc": "2026-12-17T00:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2026-12-16T19:00:00",
+        "utc": "2026-12-17T02:00:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Spokes On Southern",
+        "address": {
+          "localized_address_display": "1470 East Southern Avenue, Tempe, AZ 85282",
+          "address_1": "1470 East Southern Avenue"
+        }
+      }
+    },
+    {
+      "id": "1988878777964",
+      "name": {
+        "text": "Women's Multicultural Leadership & Impact summit",
+        "html": "Women&#39;s Multicultural Leadership &amp; Impact summit"
+      },
+      "summary": "A structured, high-level summit for women leading, building, and making decisions across industries, cultures, and generations.",
+      "description": {
+        "text": "A structured, high-level summit for women leading, building, and making decisions across industries, cultures, and generations."
+      },
+      "url": "https://www.eventbrite.com/e/womens-multicultural-leadership-impact-summit-tickets-1988878777964",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183867115%2F539141404543%2F1%2Foriginal.20260505-230325?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.017&fp-y=0.129&s=721d713033ab56a00808bb14c2f4419c",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183867115%2F539141404543%2F1%2Foriginal.20260505-230325?auto=format%2Ccompress&q=75&sharp=10&s=29eb4a485956f8fb943ba87b20b83d23"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2027-04-23T08:30:00",
+        "utc": "2027-04-23T15:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2027-04-23T17:00:00",
+        "utc": "2027-04-24T00:00:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Courtyard by Marriott Scottsdale Salt River",
+        "address": {
+          "localized_address_display": "5201 North Pima Road, Scottsdale, AZ 85250",
+          "address_1": "5201 North Pima Road"
+        }
+      }
+    },
+    {
+      "id": "1988878778967",
+      "name": {
+        "text": "Women's Multicultural Leadership & Impact summit",
+        "html": "Women&#39;s Multicultural Leadership &amp; Impact summit"
+      },
+      "summary": "A structured, high-level summit for women leading, building, and making decisions across industries, cultures, and generations.",
+      "description": {
+        "text": "A structured, high-level summit for women leading, building, and making decisions across industries, cultures, and generations."
+      },
+      "url": "https://www.eventbrite.com/e/womens-multicultural-leadership-impact-summit-tickets-1988878778967",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183867115%2F539141404543%2F1%2Foriginal.20260505-230325?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.017&fp-y=0.129&s=721d713033ab56a00808bb14c2f4419c",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183867115%2F539141404543%2F1%2Foriginal.20260505-230325?auto=format%2Ccompress&q=75&sharp=10&s=29eb4a485956f8fb943ba87b20b83d23"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2027-04-24T08:30:00",
+        "utc": "2027-04-24T15:30:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2027-04-24T17:00:00",
+        "utc": "2027-04-25T00:00:00Z"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Courtyard by Marriott Scottsdale Salt River",
+        "address": {
+          "localized_address_display": "5201 North Pima Road, Scottsdale, AZ 85250",
+          "address_1": "5201 North Pima Road"
+        }
+      }
+    }
+  ],
+  "organizationId": "541479920363",
+  "updatedAt": "2026-08-06T22:29:05.733Z"
 }
