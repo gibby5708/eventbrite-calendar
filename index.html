@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>iNET Media & Events Calendar</title>
+  <link rel="stylesheet" href="eventbrite-calendar.css">
+</head>
+<body>
+  <div id="inet-eventbrite-calendar"></div>
+
+  <script>
+    window.INETEventbriteCalendarConfig = {
+      target: "#inet-eventbrite-calendar",
+      proxyUrl: "events.json",
+      transport: "json",
+      defaultView: "month",
+      refreshMinutes: 5,
+      brandName: "iNET Media & Events",
+      timezone: "America/Phoenix"
+    };
+  </script>
+  <script src="eventbrite-calendar.js"></script>
+</body>
+</html>
