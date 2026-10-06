@@ -2,8 +2,13 @@ name: Update Eventbrite events
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-events.yml"
+      - "fetch-eventbrite-events.js"
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "7,22,37,52 * * * *"
 
 permissions:
   contents: write
