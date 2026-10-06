@@ -203,7 +203,7 @@
         });
     }
 
-    return fetch(url, { headers: { Accept: "application/json" } })
+    return fetch(url, { cache: "no-store", headers: { Accept: "application/json" } })
       .then(function (response) {
         if (!response.ok) {
           throw new Error("Eventbrite request failed with status " + response.status);
