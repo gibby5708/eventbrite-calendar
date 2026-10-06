@@ -901,6 +901,42 @@
       }
     },
     {
+      "id": "2003029654617",
+      "name": {
+        "text": "DO MORE WITH LESS A 2-hr Business Intensive",
+        "html": "DO MORE WITH LESS A 2-hr Business Intensive"
+      },
+      "summary": "A two-hour intensive for established business owners to recover time, reduce unnecessary costs, and improve how their business operates.",
+      "description": {
+        "text": "A two-hour intensive for established business owners to recover time, reduce unnecessary costs, and improve how their business operates."
+      },
+      "url": "https://www.eventbrite.com/e/do-more-with-less-a-2-hr-business-intensive-tickets-2003029654617",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195219676%2F539141404543%2F1%2Foriginal.20261006-202055?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.051&fp-y=0.207&s=bb92ac93018d1476b4a442ec9b23dff6",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195219676%2F539141404543%2F1%2Foriginal.20261006-202055?auto=format%2Ccompress&q=75&sharp=10&s=885b7fb01ee2618f472669659944a28e"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-14T17:00:00Z",
+        "local": "2027-01-14T10:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-14T19:00:00Z",
+        "local": "2027-01-14T12:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "BBB Mountain West & Pacific Southwest - Phoenix",
+        "address": {
+          "localized_address_display": "1010 East Missouri Avenue, Phoenix, AZ 85014",
+          "address_1": "1010 East Missouri Avenue"
+        }
+      }
+    },
+    {
       "id": "2002753453492",
       "name": {
         "text": "Women's Multicultural Leadership & Impact summit",
@@ -1046,5 +1082,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-10-06T18:00:44.141Z"
+  "updatedAt": "2026-10-06T22:36:06.502Z"
 }
