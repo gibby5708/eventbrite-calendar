@@ -18,13 +18,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-14T16:30:00Z",
         "local": "2026-10-14T09:30:00",
+        "utc": "2026-10-14T16:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-14T17:30:00Z",
         "local": "2026-10-14T10:30:00",
+        "utc": "2026-10-14T17:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": false,
@@ -54,13 +54,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-14T18:30:00Z",
         "local": "2026-10-14T11:30:00",
+        "utc": "2026-10-14T18:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-14T19:30:00Z",
         "local": "2026-10-14T12:30:00",
+        "utc": "2026-10-14T19:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": false,
@@ -90,13 +90,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-14T20:00:00Z",
         "local": "2026-10-14T13:00:00",
+        "utc": "2026-10-14T20:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-14T21:00:00Z",
         "local": "2026-10-14T14:00:00",
+        "utc": "2026-10-14T21:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": true,
@@ -126,13 +126,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-15T14:00:00Z",
         "local": "2026-10-15T07:00:00",
+        "utc": "2026-10-15T14:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-15T15:00:00Z",
         "local": "2026-10-15T08:00:00",
+        "utc": "2026-10-15T15:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": true,
@@ -162,13 +162,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-21T16:30:00Z",
         "local": "2026-10-21T09:30:00",
+        "utc": "2026-10-21T16:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-21T17:30:00Z",
         "local": "2026-10-21T10:30:00",
+        "utc": "2026-10-21T17:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": false,
@@ -198,13 +198,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-21T18:30:00Z",
         "local": "2026-10-21T11:30:00",
+        "utc": "2026-10-21T18:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-21T19:30:00Z",
         "local": "2026-10-21T12:30:00",
+        "utc": "2026-10-21T19:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": false,
@@ -234,13 +234,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-21T20:00:00Z",
         "local": "2026-10-21T13:00:00",
+        "utc": "2026-10-21T20:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-21T21:00:00Z",
         "local": "2026-10-21T14:00:00",
+        "utc": "2026-10-21T21:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": true,
@@ -270,13 +270,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-22T00:00:00Z",
         "local": "2026-10-21T17:00:00",
+        "utc": "2026-10-22T00:00:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2026-10-22T02:00:00Z",
         "local": "2026-10-21T19:00:00",
+        "utc": "2026-10-22T02:00:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": false,
@@ -306,13 +306,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-22T14:00:00Z",
         "local": "2026-10-22T07:00:00",
+        "utc": "2026-10-22T14:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-22T15:00:00Z",
         "local": "2026-10-22T08:00:00",
+        "utc": "2026-10-22T15:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": true,
@@ -342,13 +342,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-28T16:30:00Z",
         "local": "2026-10-28T09:30:00",
+        "utc": "2026-10-28T16:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-28T17:30:00Z",
         "local": "2026-10-28T10:30:00",
+        "utc": "2026-10-28T17:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": false,
@@ -378,13 +378,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-28T18:30:00Z",
         "local": "2026-10-28T11:30:00",
+        "utc": "2026-10-28T18:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-28T19:30:00Z",
         "local": "2026-10-28T12:30:00",
+        "utc": "2026-10-28T19:30:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": false,
@@ -414,13 +414,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-28T20:00:00Z",
         "local": "2026-10-28T13:00:00",
+        "utc": "2026-10-28T20:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-28T21:00:00Z",
         "local": "2026-10-28T14:00:00",
+        "utc": "2026-10-28T21:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": true,
@@ -450,13 +450,13 @@
         }
       },
       "start": {
-        "utc": "2026-10-29T14:00:00Z",
         "local": "2026-10-29T07:00:00",
+        "utc": "2026-10-29T14:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "end": {
-        "utc": "2026-10-29T15:00:00Z",
         "local": "2026-10-29T08:00:00",
+        "utc": "2026-10-29T15:00:00Z",
         "timezone": "America/Los_Angeles"
       },
       "online_event": true,
@@ -486,13 +486,13 @@
         }
       },
       "start": {
-        "utc": "2026-11-04T18:30:00Z",
         "local": "2026-11-04T11:30:00",
+        "utc": "2026-11-04T18:30:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2026-11-04T19:30:00Z",
         "local": "2026-11-04T12:30:00",
+        "utc": "2026-11-04T19:30:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": false,
@@ -522,13 +522,13 @@
         }
       },
       "start": {
-        "utc": "2026-11-04T20:00:00Z",
         "local": "2026-11-04T13:00:00",
+        "utc": "2026-11-04T20:00:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2026-11-04T21:00:00Z",
         "local": "2026-11-04T14:00:00",
+        "utc": "2026-11-04T21:00:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": true,
@@ -558,13 +558,13 @@
         }
       },
       "start": {
-        "utc": "2026-11-05T14:00:00Z",
         "local": "2026-11-05T07:00:00",
+        "utc": "2026-11-05T14:00:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2026-11-05T15:00:00Z",
         "local": "2026-11-05T08:00:00",
+        "utc": "2026-11-05T15:00:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": true,
@@ -594,13 +594,13 @@
         }
       },
       "start": {
-        "utc": "2026-11-12T14:00:00Z",
         "local": "2026-11-12T07:00:00",
+        "utc": "2026-11-12T14:00:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2026-11-12T15:00:00Z",
         "local": "2026-11-12T08:00:00",
+        "utc": "2026-11-12T15:00:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": true,
@@ -630,13 +630,13 @@
         }
       },
       "start": {
-        "utc": "2026-11-18T18:30:00Z",
         "local": "2026-11-18T11:30:00",
+        "utc": "2026-11-18T18:30:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2026-11-18T19:30:00Z",
         "local": "2026-11-18T12:30:00",
+        "utc": "2026-11-18T19:30:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": false,
@@ -666,13 +666,13 @@
         }
       },
       "start": {
-        "utc": "2026-11-18T20:00:00Z",
         "local": "2026-11-18T13:00:00",
+        "utc": "2026-11-18T20:00:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2026-11-18T21:00:00Z",
         "local": "2026-11-18T14:00:00",
+        "utc": "2026-11-18T21:00:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": true,
@@ -702,13 +702,13 @@
         }
       },
       "start": {
-        "utc": "2026-11-19T00:00:00Z",
         "local": "2026-11-18T17:00:00",
+        "utc": "2026-11-19T00:00:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2026-11-19T02:00:00Z",
         "local": "2026-11-18T19:00:00",
+        "utc": "2026-11-19T02:00:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": false,
@@ -738,13 +738,13 @@
         }
       },
       "start": {
-        "utc": "2026-11-19T14:00:00Z",
         "local": "2026-11-19T07:00:00",
+        "utc": "2026-11-19T14:00:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2026-11-19T15:00:00Z",
         "local": "2026-11-19T08:00:00",
+        "utc": "2026-11-19T15:00:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": true,
@@ -774,13 +774,13 @@
         }
       },
       "start": {
-        "utc": "2027-01-14T17:00:00Z",
         "local": "2027-01-14T10:00:00",
+        "utc": "2027-01-14T17:00:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2027-01-14T19:00:00Z",
         "local": "2027-01-14T12:00:00",
+        "utc": "2027-01-14T19:00:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": false,
@@ -810,13 +810,13 @@
         }
       },
       "start": {
-        "utc": "2027-04-22T20:00:00Z",
         "local": "2027-04-22T13:00:00",
+        "utc": "2027-04-22T20:00:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2027-04-23T02:30:00Z",
         "local": "2027-04-22T19:30:00",
+        "utc": "2027-04-23T02:30:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": false,
@@ -846,13 +846,13 @@
         }
       },
       "start": {
-        "utc": "2027-04-23T01:00:00Z",
         "local": "2027-04-22T18:00:00",
+        "utc": "2027-04-23T01:00:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2027-04-23T02:30:00Z",
         "local": "2027-04-22T19:30:00",
+        "utc": "2027-04-23T02:30:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": false,
@@ -882,13 +882,13 @@
         }
       },
       "start": {
-        "utc": "2027-04-23T15:30:00Z",
         "local": "2027-04-23T08:30:00",
+        "utc": "2027-04-23T15:30:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2027-04-24T00:00:00Z",
         "local": "2027-04-23T17:00:00",
+        "utc": "2027-04-24T00:00:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": false,
@@ -918,13 +918,13 @@
         }
       },
       "start": {
-        "utc": "2027-04-24T15:30:00Z",
         "local": "2027-04-24T08:30:00",
+        "utc": "2027-04-24T15:30:00Z",
         "timezone": "America/Phoenix"
       },
       "end": {
-        "utc": "2027-04-25T00:00:00Z",
         "local": "2027-04-24T17:00:00",
+        "utc": "2027-04-25T00:00:00Z",
         "timezone": "America/Phoenix"
       },
       "online_event": false,
@@ -938,5 +938,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-10-10T02:15:07.896Z"
+  "updatedAt": "2026-10-10T08:36:34.970Z"
 }
