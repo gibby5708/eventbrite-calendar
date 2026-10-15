@@ -1,42 +1,6 @@
 {
   "events": [
     {
-      "id": "1988648923463",
-      "name": {
-        "text": "iNET Pura Vida Connect",
-        "html": "iNET Pura Vida Connect"
-      },
-      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
-      "description": {
-        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
-      },
-      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988648923463",
-      "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
-        "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
-        }
-      },
-      "start": {
-        "local": "2026-10-15T07:00:00",
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-10-15T14:00:00Z"
-      },
-      "end": {
-        "local": "2026-10-15T08:00:00",
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-10-15T15:00:00Z"
-      },
-      "online_event": true,
-      "venue": {
-        "name": "",
-        "address": {
-          "localized_address_display": "",
-          "address_1": ""
-        }
-      }
-    },
-    {
       "id": "1988602594893",
       "name": {
         "text": "Phoenix Central Arizona Business Networking",
@@ -54,14 +18,14 @@
         }
       },
       "start": {
-        "local": "2026-10-21T09:30:00",
+        "utc": "2026-10-21T16:30:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-21T16:30:00Z"
+        "local": "2026-10-21T09:30:00"
       },
       "end": {
-        "local": "2026-10-21T10:30:00",
+        "utc": "2026-10-21T17:30:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-21T17:30:00Z"
+        "local": "2026-10-21T10:30:00"
       },
       "online_event": false,
       "venue": {
@@ -90,14 +54,14 @@
         }
       },
       "start": {
-        "local": "2026-10-21T11:30:00",
+        "utc": "2026-10-21T18:30:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-21T18:30:00Z"
+        "local": "2026-10-21T11:30:00"
       },
       "end": {
-        "local": "2026-10-21T12:30:00",
+        "utc": "2026-10-21T19:30:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-21T19:30:00Z"
+        "local": "2026-10-21T12:30:00"
       },
       "online_event": false,
       "venue": {
@@ -126,14 +90,14 @@
         }
       },
       "start": {
-        "local": "2026-10-21T13:00:00",
+        "utc": "2026-10-21T20:00:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-21T20:00:00Z"
+        "local": "2026-10-21T13:00:00"
       },
       "end": {
-        "local": "2026-10-21T14:00:00",
+        "utc": "2026-10-21T21:00:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-21T21:00:00Z"
+        "local": "2026-10-21T14:00:00"
       },
       "online_event": true,
       "venue": {
@@ -162,14 +126,14 @@
         }
       },
       "start": {
-        "local": "2026-10-21T17:00:00",
+        "utc": "2026-10-22T00:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-10-22T00:00:00Z"
+        "local": "2026-10-21T17:00:00"
       },
       "end": {
-        "local": "2026-10-21T19:00:00",
+        "utc": "2026-10-22T02:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-10-22T02:00:00Z"
+        "local": "2026-10-21T19:00:00"
       },
       "online_event": false,
       "venue": {
@@ -198,14 +162,14 @@
         }
       },
       "start": {
-        "local": "2026-10-22T07:00:00",
+        "utc": "2026-10-22T14:00:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-22T14:00:00Z"
+        "local": "2026-10-22T07:00:00"
       },
       "end": {
-        "local": "2026-10-22T08:00:00",
+        "utc": "2026-10-22T15:00:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-22T15:00:00Z"
+        "local": "2026-10-22T08:00:00"
       },
       "online_event": true,
       "venue": {
@@ -234,14 +198,14 @@
         }
       },
       "start": {
-        "local": "2026-10-28T09:30:00",
+        "utc": "2026-10-28T16:30:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-28T16:30:00Z"
+        "local": "2026-10-28T09:30:00"
       },
       "end": {
-        "local": "2026-10-28T10:30:00",
+        "utc": "2026-10-28T17:30:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-28T17:30:00Z"
+        "local": "2026-10-28T10:30:00"
       },
       "online_event": false,
       "venue": {
@@ -270,14 +234,14 @@
         }
       },
       "start": {
-        "local": "2026-10-28T11:30:00",
+        "utc": "2026-10-28T18:30:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-28T18:30:00Z"
+        "local": "2026-10-28T11:30:00"
       },
       "end": {
-        "local": "2026-10-28T12:30:00",
+        "utc": "2026-10-28T19:30:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-28T19:30:00Z"
+        "local": "2026-10-28T12:30:00"
       },
       "online_event": false,
       "venue": {
@@ -306,14 +270,14 @@
         }
       },
       "start": {
-        "local": "2026-10-28T13:00:00",
+        "utc": "2026-10-28T20:00:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-28T20:00:00Z"
+        "local": "2026-10-28T13:00:00"
       },
       "end": {
-        "local": "2026-10-28T14:00:00",
+        "utc": "2026-10-28T21:00:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-28T21:00:00Z"
+        "local": "2026-10-28T14:00:00"
       },
       "online_event": true,
       "venue": {
@@ -342,14 +306,14 @@
         }
       },
       "start": {
-        "local": "2026-10-29T07:00:00",
+        "utc": "2026-10-29T14:00:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-29T14:00:00Z"
+        "local": "2026-10-29T07:00:00"
       },
       "end": {
-        "local": "2026-10-29T08:00:00",
+        "utc": "2026-10-29T15:00:00Z",
         "timezone": "America/Los_Angeles",
-        "utc": "2026-10-29T15:00:00Z"
+        "local": "2026-10-29T08:00:00"
       },
       "online_event": true,
       "venue": {
@@ -378,14 +342,14 @@
         }
       },
       "start": {
-        "local": "2026-11-04T11:30:00",
+        "utc": "2026-11-04T18:30:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-04T18:30:00Z"
+        "local": "2026-11-04T11:30:00"
       },
       "end": {
-        "local": "2026-11-04T12:30:00",
+        "utc": "2026-11-04T19:30:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-04T19:30:00Z"
+        "local": "2026-11-04T12:30:00"
       },
       "online_event": false,
       "venue": {
@@ -414,14 +378,14 @@
         }
       },
       "start": {
-        "local": "2026-11-04T13:00:00",
+        "utc": "2026-11-04T20:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-04T20:00:00Z"
+        "local": "2026-11-04T13:00:00"
       },
       "end": {
-        "local": "2026-11-04T14:00:00",
+        "utc": "2026-11-04T21:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-04T21:00:00Z"
+        "local": "2026-11-04T14:00:00"
       },
       "online_event": true,
       "venue": {
@@ -450,14 +414,14 @@
         }
       },
       "start": {
-        "local": "2026-11-05T07:00:00",
+        "utc": "2026-11-05T14:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-05T14:00:00Z"
+        "local": "2026-11-05T07:00:00"
       },
       "end": {
-        "local": "2026-11-05T08:00:00",
+        "utc": "2026-11-05T15:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-05T15:00:00Z"
+        "local": "2026-11-05T08:00:00"
       },
       "online_event": true,
       "venue": {
@@ -486,14 +450,14 @@
         }
       },
       "start": {
-        "local": "2026-11-12T07:00:00",
+        "utc": "2026-11-12T14:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-12T14:00:00Z"
+        "local": "2026-11-12T07:00:00"
       },
       "end": {
-        "local": "2026-11-12T08:00:00",
+        "utc": "2026-11-12T15:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-12T15:00:00Z"
+        "local": "2026-11-12T08:00:00"
       },
       "online_event": true,
       "venue": {
@@ -522,14 +486,14 @@
         }
       },
       "start": {
-        "local": "2026-11-18T11:30:00",
+        "utc": "2026-11-18T18:30:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-18T18:30:00Z"
+        "local": "2026-11-18T11:30:00"
       },
       "end": {
-        "local": "2026-11-18T12:30:00",
+        "utc": "2026-11-18T19:30:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-18T19:30:00Z"
+        "local": "2026-11-18T12:30:00"
       },
       "online_event": false,
       "venue": {
@@ -558,14 +522,14 @@
         }
       },
       "start": {
-        "local": "2026-11-18T13:00:00",
+        "utc": "2026-11-18T20:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-18T20:00:00Z"
+        "local": "2026-11-18T13:00:00"
       },
       "end": {
-        "local": "2026-11-18T14:00:00",
+        "utc": "2026-11-18T21:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-18T21:00:00Z"
+        "local": "2026-11-18T14:00:00"
       },
       "online_event": true,
       "venue": {
@@ -594,14 +558,14 @@
         }
       },
       "start": {
-        "local": "2026-11-18T17:00:00",
+        "utc": "2026-11-19T00:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-19T00:00:00Z"
+        "local": "2026-11-18T17:00:00"
       },
       "end": {
-        "local": "2026-11-18T19:00:00",
+        "utc": "2026-11-19T02:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-19T02:00:00Z"
+        "local": "2026-11-18T19:00:00"
       },
       "online_event": false,
       "venue": {
@@ -630,14 +594,14 @@
         }
       },
       "start": {
-        "local": "2026-11-19T07:00:00",
+        "utc": "2026-11-19T14:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-19T14:00:00Z"
+        "local": "2026-11-19T07:00:00"
       },
       "end": {
-        "local": "2026-11-19T08:00:00",
+        "utc": "2026-11-19T15:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2026-11-19T15:00:00Z"
+        "local": "2026-11-19T08:00:00"
       },
       "online_event": true,
       "venue": {
@@ -666,14 +630,14 @@
         }
       },
       "start": {
-        "local": "2027-01-14T10:00:00",
+        "utc": "2027-01-14T17:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2027-01-14T17:00:00Z"
+        "local": "2027-01-14T10:00:00"
       },
       "end": {
-        "local": "2027-01-14T12:00:00",
+        "utc": "2027-01-14T19:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2027-01-14T19:00:00Z"
+        "local": "2027-01-14T12:00:00"
       },
       "online_event": false,
       "venue": {
@@ -702,14 +666,14 @@
         }
       },
       "start": {
-        "local": "2027-04-22T13:00:00",
+        "utc": "2027-04-22T20:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2027-04-22T20:00:00Z"
+        "local": "2027-04-22T13:00:00"
       },
       "end": {
-        "local": "2027-04-22T19:30:00",
+        "utc": "2027-04-23T02:30:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2027-04-23T02:30:00Z"
+        "local": "2027-04-22T19:30:00"
       },
       "online_event": false,
       "venue": {
@@ -738,14 +702,14 @@
         }
       },
       "start": {
-        "local": "2027-04-22T18:00:00",
+        "utc": "2027-04-23T01:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2027-04-23T01:00:00Z"
+        "local": "2027-04-22T18:00:00"
       },
       "end": {
-        "local": "2027-04-22T19:30:00",
+        "utc": "2027-04-23T02:30:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2027-04-23T02:30:00Z"
+        "local": "2027-04-22T19:30:00"
       },
       "online_event": false,
       "venue": {
@@ -774,14 +738,14 @@
         }
       },
       "start": {
-        "local": "2027-04-23T08:30:00",
+        "utc": "2027-04-23T15:30:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2027-04-23T15:30:00Z"
+        "local": "2027-04-23T08:30:00"
       },
       "end": {
-        "local": "2027-04-23T17:00:00",
+        "utc": "2027-04-24T00:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2027-04-24T00:00:00Z"
+        "local": "2027-04-23T17:00:00"
       },
       "online_event": false,
       "venue": {
@@ -810,14 +774,14 @@
         }
       },
       "start": {
-        "local": "2027-04-24T08:30:00",
+        "utc": "2027-04-24T15:30:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2027-04-24T15:30:00Z"
+        "local": "2027-04-24T08:30:00"
       },
       "end": {
-        "local": "2027-04-24T17:00:00",
+        "utc": "2027-04-25T00:00:00Z",
         "timezone": "America/Phoenix",
-        "utc": "2027-04-25T00:00:00Z"
+        "local": "2027-04-24T17:00:00"
       },
       "online_event": false,
       "venue": {
@@ -830,5 +794,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-10-15T12:42:56.152Z"
+  "updatedAt": "2026-10-15T17:24:02.571Z"
 }
