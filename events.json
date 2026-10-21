@@ -1,78 +1,6 @@
 {
   "events": [
     {
-      "id": "1988648152156",
-      "name": {
-        "text": "Mesa Arizona Business Networking",
-        "html": "Mesa Arizona Business Networking"
-      },
-      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
-      "description": {
-        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
-      },
-      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-1988648152156",
-      "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
-        "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
-        }
-      },
-      "start": {
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-10-21T18:30:00Z",
-        "local": "2026-10-21T11:30:00"
-      },
-      "end": {
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-10-21T19:30:00Z",
-        "local": "2026-10-21T12:30:00"
-      },
-      "online_event": false,
-      "venue": {
-        "name": "The HUB Grill and Bar",
-        "address": {
-          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
-          "address_1": "1925 South Sossaman Road"
-        }
-      }
-    },
-    {
-      "id": "1988648591470",
-      "name": {
-        "text": "WOW Networking",
-        "html": "WOW Networking"
-      },
-      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
-      "description": {
-        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
-      },
-      "url": "https://www.eventbrite.com/e/wow-networking-tickets-1988648591470",
-      "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
-        "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
-        }
-      },
-      "start": {
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-10-21T20:00:00Z",
-        "local": "2026-10-21T13:00:00"
-      },
-      "end": {
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-10-21T21:00:00Z",
-        "local": "2026-10-21T14:00:00"
-      },
-      "online_event": true,
-      "venue": {
-        "name": "",
-        "address": {
-          "localized_address_display": "",
-          "address_1": ""
-        }
-      }
-    },
-    {
       "id": "1975644650332",
       "name": {
         "text": "525 Men's Group",
@@ -758,5 +686,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-10-21T18:53:23.668Z"
+  "updatedAt": "2026-10-21T22:15:15.264Z"
 }
