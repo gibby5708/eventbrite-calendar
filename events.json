@@ -1,42 +1,6 @@
 {
   "events": [
     {
-      "id": "1988649101997",
-      "name": {
-        "text": "iNET Pura Vida Connect",
-        "html": "iNET Pura Vida Connect"
-      },
-      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
-      "description": {
-        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
-      },
-      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-1988649101997",
-      "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
-        "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
-        }
-      },
-      "start": {
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-10-22T14:00:00Z",
-        "local": "2026-10-22T07:00:00"
-      },
-      "end": {
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-10-22T15:00:00Z",
-        "local": "2026-10-22T08:00:00"
-      },
-      "online_event": true,
-      "venue": {
-        "name": "",
-        "address": {
-          "localized_address_display": "",
-          "address_1": ""
-        }
-      }
-    },
-    {
       "id": "1988602631001",
       "name": {
         "text": "Phoenix Central Arizona Business Networking",
@@ -650,5 +614,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-10-22T10:32:42.457Z"
+  "updatedAt": "2026-10-22T15:33:33.004Z"
 }
