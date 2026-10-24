@@ -1,42 +1,6 @@
 {
   "events": [
     {
-      "id": "1988602631001",
-      "name": {
-        "text": "Phoenix Central Arizona Business Networking",
-        "html": "Phoenix Central Arizona Business Networking"
-      },
-      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
-      "description": {
-        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
-      },
-      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-1988602631001",
-      "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
-        "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
-        }
-      },
-      "start": {
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-10-28T16:30:00Z",
-        "local": "2026-10-28T09:30:00"
-      },
-      "end": {
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-10-28T17:30:00Z",
-        "local": "2026-10-28T10:30:00"
-      },
-      "online_event": false,
-      "venue": {
-        "name": "Better Business Bureau",
-        "address": {
-          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
-          "address_1": "1010 E Missouri Ave."
-        }
-      }
-    },
-    {
       "id": "1988648692773",
       "name": {
         "text": "WOW Networking",
@@ -109,38 +73,38 @@
       }
     },
     {
-      "id": "2003016097066",
+      "id": "2003844205962",
       "name": {
-        "text": "Mesa Arizona Business Networking",
-        "html": "Mesa Arizona Business Networking"
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
       },
-      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
       "description": {
-        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
       },
-      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-2003016097066",
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-2003844205962",
       "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
         "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
         }
       },
       "start": {
-        "timezone": "America/Phoenix",
-        "utc": "2026-11-04T18:30:00Z",
-        "local": "2026-11-04T11:30:00"
+        "timezone": "America/Los_Angeles",
+        "utc": "2026-11-04T17:30:00Z",
+        "local": "2026-11-04T09:30:00"
       },
       "end": {
-        "timezone": "America/Phoenix",
-        "utc": "2026-11-04T19:30:00Z",
-        "local": "2026-11-04T12:30:00"
+        "timezone": "America/Los_Angeles",
+        "utc": "2026-11-04T18:30:00Z",
+        "local": "2026-11-04T10:30:00"
       },
       "online_event": false,
       "venue": {
-        "name": "The HUB Grill and Bar",
+        "name": "Better Business Bureau",
         "address": {
-          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
-          "address_1": "1925 South Sossaman Road"
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
         }
       }
     },
@@ -253,38 +217,38 @@
       }
     },
     {
-      "id": "2003016636680",
+      "id": "2003844480784",
       "name": {
-        "text": "Mesa Arizona Business Networking",
-        "html": "Mesa Arizona Business Networking"
+        "text": "Phoenix Holiday Business Showcase",
+        "html": "Phoenix Holiday Business Showcase"
       },
-      "summary": "A community for Entrepreneurs, Business Owners, and Influencers.",
+      "summary": "eet local business owners, make valuable connections, shop for the holidays, and discover new opportunities. Free admission!",
       "description": {
-        "text": "A community for Entrepreneurs, Business Owners, and Influencers."
+        "text": "eet local business owners, make valuable connections, shop for the holidays, and discover new opportunities. Free admission!"
       },
-      "url": "https://www.eventbrite.com/e/mesa-arizona-business-networking-tickets-2003016636680",
+      "url": "https://www.eventbrite.com/e/phoenix-holiday-business-showcase-tickets-2003844480784",
       "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.146&fp-y=0.448&s=24c399d7b6449a189882c6d0fb580d77",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196479615%2F539141404543%2F1%2Foriginal.20261023-232134?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.509&fp-y=0.244&s=a075ced0f651f05bd6225574bc363dc4",
         "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217030%2F539141404543%2F1%2Foriginal.20260401-172520?auto=format%2Ccompress&q=75&sharp=10&s=0e4c2b7993fb3088bb1f457f2f9a81db"
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196479615%2F539141404543%2F1%2Foriginal.20261023-232134?auto=format%2Ccompress&q=75&sharp=10&s=6146490af254e8fa384edf63d4ed77d8"
         }
       },
       "start": {
         "timezone": "America/Phoenix",
-        "utc": "2026-11-18T18:30:00Z",
-        "local": "2026-11-18T11:30:00"
+        "utc": "2026-11-18T17:00:00Z",
+        "local": "2026-11-18T10:00:00"
       },
       "end": {
         "timezone": "America/Phoenix",
-        "utc": "2026-11-18T19:30:00Z",
-        "local": "2026-11-18T12:30:00"
+        "utc": "2026-11-18T19:00:00Z",
+        "local": "2026-11-18T12:00:00"
       },
       "online_event": false,
       "venue": {
-        "name": "The HUB Grill and Bar",
+        "name": "1010 E Missouri Ave",
         "address": {
-          "localized_address_display": "1925 South Sossaman Road, Mesa, AZ 85209",
-          "address_1": "1925 South Sossaman Road"
+          "localized_address_display": "1010 East Missouri Avenue, Phoenix, AZ 85014",
+          "address_1": "1010 East Missouri Avenue"
         }
       }
     },
@@ -393,6 +357,42 @@
         "address": {
           "localized_address_display": "",
           "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2003844215992",
+      "name": {
+        "text": "Phoenix Central Arizona Business Networking",
+        "html": "Phoenix Central Arizona Business Networking"
+      },
+      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "description": {
+        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-2003844215992",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2026-12-02T17:30:00Z",
+        "local": "2026-12-02T09:30:00"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2026-12-02T18:30:00Z",
+        "local": "2026-12-02T10:30:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
         }
       }
     },
@@ -578,5 +578,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-10-23T23:03:05.055Z"
+  "updatedAt": "2026-10-24T01:29:20.695Z"
 }
