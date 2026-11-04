@@ -1,78 +1,6 @@
 {
   "events": [
     {
-      "id": "2003844205962",
-      "name": {
-        "text": "Phoenix Central Arizona Business Networking",
-        "html": "Phoenix Central Arizona Business Networking"
-      },
-      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
-      "description": {
-        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
-      },
-      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-2003844205962",
-      "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
-        "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
-        }
-      },
-      "start": {
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-11-04T17:30:00Z",
-        "local": "2026-11-04T09:30:00"
-      },
-      "end": {
-        "timezone": "America/Los_Angeles",
-        "utc": "2026-11-04T18:30:00Z",
-        "local": "2026-11-04T10:30:00"
-      },
-      "online_event": false,
-      "venue": {
-        "name": "Better Business Bureau",
-        "address": {
-          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
-          "address_1": "1010 E Missouri Ave."
-        }
-      }
-    },
-    {
-      "id": "2003017548407",
-      "name": {
-        "text": "WOW Networking",
-        "html": "WOW Networking"
-      },
-      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
-      "description": {
-        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
-      },
-      "url": "https://www.eventbrite.com/e/wow-networking-tickets-2003017548407",
-      "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
-        "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
-        }
-      },
-      "start": {
-        "timezone": "America/Phoenix",
-        "utc": "2026-11-04T20:00:00Z",
-        "local": "2026-11-04T13:00:00"
-      },
-      "end": {
-        "timezone": "America/Phoenix",
-        "utc": "2026-11-04T21:00:00Z",
-        "local": "2026-11-04T14:00:00"
-      },
-      "online_event": true,
-      "venue": {
-        "name": "",
-        "address": {
-          "localized_address_display": "",
-          "address_1": ""
-        }
-      }
-    },
-    {
       "id": "2003016845304",
       "name": {
         "text": "iNET Pura Vida Connect",
@@ -506,5 +434,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-11-04T17:26:44.964Z"
+  "updatedAt": "2026-11-04T22:49:02.614Z"
 }
