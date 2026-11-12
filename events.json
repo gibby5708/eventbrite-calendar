@@ -1,42 +1,6 @@
 {
   "events": [
     {
-      "id": "2003017206384",
-      "name": {
-        "text": "iNET Pura Vida Connect",
-        "html": "iNET Pura Vida Connect"
-      },
-      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
-      "description": {
-        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
-      },
-      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-2003017206384",
-      "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
-        "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
-        }
-      },
-      "start": {
-        "timezone": "America/Phoenix",
-        "utc": "2026-11-12T14:00:00Z",
-        "local": "2026-11-12T07:00:00"
-      },
-      "end": {
-        "timezone": "America/Phoenix",
-        "utc": "2026-11-12T15:00:00Z",
-        "local": "2026-11-12T08:00:00"
-      },
-      "online_event": true,
-      "venue": {
-        "name": "",
-        "address": {
-          "localized_address_display": "",
-          "address_1": ""
-        }
-      }
-    },
-    {
       "id": "2003844480784",
       "name": {
         "text": "Phoenix Holiday Business Showcase",
@@ -398,5 +362,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-11-12T13:09:26.072Z"
+  "updatedAt": "2026-11-12T20:54:24.583Z"
 }
