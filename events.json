@@ -145,31 +145,67 @@
       }
     },
     {
+      "id": "2004962105630",
+      "name": {
+        "text": "Network Together I Mesa Connections",
+        "html": "Network Together I Mesa Connections"
+      },
+      "summary": "Meet Mesa business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities.",
+      "description": {
+        "text": "Meet Mesa business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities."
+      },
+      "url": "https://www.eventbrite.com/e/network-together-i-mesa-connections-tickets-2004962105630",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198176454%2F539141404543%2F1%2Foriginal.20261117-172854?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.991&fp-y=0.098&s=e6a535c9d5807931e94a17f67347503b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198176454%2F539141404543%2F1%2Foriginal.20261117-172854?auto=format%2Ccompress&q=75&sharp=10&s=401699c386209b62e35aff0817ceabf9"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-05T17:00:00Z",
+        "local": "2027-01-05T10:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-05T18:30:00Z",
+        "local": "2027-01-05T11:30:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Mesa Business Builder @ The Studios",
+        "address": {
+          "localized_address_display": "59 East 1st Street #Floor 2, Mesa, AZ 85201",
+          "address_1": "59 East 1st Street"
+        }
+      }
+    },
+    {
       "id": "2003844215992",
       "name": {
-        "text": "Phoenix Central Arizona Business Networking",
-        "html": "Phoenix Central Arizona Business Networking"
+        "text": "Network Together | Phoenix Connections",
+        "html": "Network Together | Phoenix Connections"
       },
-      "summary": "Weekly networking for Business Owners, Entrepreneurs, and Influencers",
+      "summary": "Meet Phoenix business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities.",
       "description": {
-        "text": "Weekly networking for Business Owners, Entrepreneurs, and Influencers"
+        "text": "Meet Phoenix business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities."
       },
-      "url": "https://www.eventbrite.com/e/phoenix-central-arizona-business-networking-tickets-2003844215992",
+      "url": "https://www.eventbrite.com/e/network-together-phoenix-connections-tickets-2003844215992",
       "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.197&fp-y=0.313&s=89aec6a9baabc579a35fd91f3b40dad0",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198174834%2F539141404543%2F1%2Foriginal.20261117-170858?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.145&s=a44609b0065f63305db1b1197cbc0623",
         "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217578%2F539141404543%2F1%2Foriginal.20260401-173051?auto=format%2Ccompress&q=75&sharp=10&s=ed26658aff33e839b8b47fd8eb1c4df4"
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198174834%2F539141404543%2F1%2Foriginal.20261117-170858?auto=format%2Ccompress&q=75&sharp=10&s=215ebec0af288b654abfceda9171468b"
         }
       },
       "start": {
         "timezone": "America/Los_Angeles",
-        "utc": "2026-12-02T17:30:00Z",
-        "local": "2026-12-02T09:30:00"
+        "utc": "2027-01-12T19:00:00Z",
+        "local": "2027-01-12T11:00:00"
       },
       "end": {
         "timezone": "America/Los_Angeles",
-        "utc": "2026-12-02T18:30:00Z",
-        "local": "2026-12-02T10:30:00"
+        "utc": "2027-01-12T20:30:00Z",
+        "local": "2027-01-12T12:30:00"
       },
       "online_event": false,
       "venue": {
@@ -213,6 +249,186 @@
         "address": {
           "localized_address_display": "1010 East Missouri Avenue, Phoenix, AZ 85014",
           "address_1": "1010 East Missouri Avenue"
+        }
+      }
+    },
+    {
+      "id": "2004975104510",
+      "name": {
+        "text": "The Women's Boardroom | Monthly Working Sessions for Women Entrepreneurs",
+        "html": "The Women&#39;s Boardroom | Monthly Working Sessions for Women Entrepreneurs"
+      },
+      "summary": "Bring YOUR business questions, exchange experience, explore options, and build valuable connections with women entrepreneurs.",
+      "description": {
+        "text": "Bring YOUR business questions, exchange experience, explore options, and build valuable connections with women entrepreneurs."
+      },
+      "url": "https://www.eventbrite.com/e/the-womens-boardroom-monthly-working-sessions-for-women-entrepreneurs-tickets-2004975104510",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198193993%2F539141404543%2F1%2Foriginal.20261117-210320?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.525&fp-y=0.49&s=fe27a880eb9860a8e713633f0f6c6fc4",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198193993%2F539141404543%2F1%2Foriginal.20261117-210320?auto=format%2Ccompress&q=75&sharp=10&s=1e32696fa32c572d0ca9555864644e2b"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-19T17:00:00Z",
+        "local": "2027-01-19T10:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-19T19:00:00Z",
+        "local": "2027-01-19T12:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Mesa Business Builder @ The Studios",
+        "address": {
+          "localized_address_display": "59 East 1st Street #Floor 2, Mesa, AZ 85201",
+          "address_1": "59 East 1st Street"
+        }
+      }
+    },
+    {
+      "id": "2004962244044",
+      "name": {
+        "text": "Network Together I Mesa Connections",
+        "html": "Network Together I Mesa Connections"
+      },
+      "summary": "Meet Mesa business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities.",
+      "description": {
+        "text": "Meet Mesa business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities."
+      },
+      "url": "https://www.eventbrite.com/e/network-together-i-mesa-connections-tickets-2004962244044",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198176454%2F539141404543%2F1%2Foriginal.20261117-172854?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.991&fp-y=0.098&s=e6a535c9d5807931e94a17f67347503b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198176454%2F539141404543%2F1%2Foriginal.20261117-172854?auto=format%2Ccompress&q=75&sharp=10&s=401699c386209b62e35aff0817ceabf9"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-02T17:00:00Z",
+        "local": "2027-02-02T10:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-02T18:30:00Z",
+        "local": "2027-02-02T11:30:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Mesa Business Builder @ The Studios",
+        "address": {
+          "localized_address_display": "59 East 1st Street #Floor 2, Mesa, AZ 85201",
+          "address_1": "59 East 1st Street"
+        }
+      }
+    },
+    {
+      "id": "2004961522887",
+      "name": {
+        "text": "Network Together | Phoenix Connections",
+        "html": "Network Together | Phoenix Connections"
+      },
+      "summary": "Meet Phoenix business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities.",
+      "description": {
+        "text": "Meet Phoenix business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities."
+      },
+      "url": "https://www.eventbrite.com/e/network-together-phoenix-connections-tickets-2004961522887",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198174834%2F539141404543%2F1%2Foriginal.20261117-170858?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.145&s=a44609b0065f63305db1b1197cbc0623",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198174834%2F539141404543%2F1%2Foriginal.20261117-170858?auto=format%2Ccompress&q=75&sharp=10&s=215ebec0af288b654abfceda9171468b"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2027-02-09T19:00:00Z",
+        "local": "2027-02-09T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2027-02-09T20:30:00Z",
+        "local": "2027-02-09T12:30:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "2004961678352",
+      "name": {
+        "text": "Network Together | Phoenix Connections",
+        "html": "Network Together | Phoenix Connections"
+      },
+      "summary": "Meet Phoenix business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities.",
+      "description": {
+        "text": "Meet Phoenix business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities."
+      },
+      "url": "https://www.eventbrite.com/e/network-together-phoenix-connections-tickets-2004961678352",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198174834%2F539141404543%2F1%2Foriginal.20261117-170858?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.145&s=a44609b0065f63305db1b1197cbc0623",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198174834%2F539141404543%2F1%2Foriginal.20261117-170858?auto=format%2Ccompress&q=75&sharp=10&s=215ebec0af288b654abfceda9171468b"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2027-03-09T19:00:00Z",
+        "local": "2027-03-09T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2027-03-09T20:30:00Z",
+        "local": "2027-03-09T12:30:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "2004962559989",
+      "name": {
+        "text": "Network Together | Phoenix Connections",
+        "html": "Network Together | Phoenix Connections"
+      },
+      "summary": "Meet Phoenix business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities.",
+      "description": {
+        "text": "Meet Phoenix business owners, share knowledge, discover resources, and build connections that can lead to new business opportunities."
+      },
+      "url": "https://www.eventbrite.com/e/network-together-phoenix-connections-tickets-2004962559989",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198174834%2F539141404543%2F1%2Foriginal.20261117-170858?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.145&s=a44609b0065f63305db1b1197cbc0623",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198174834%2F539141404543%2F1%2Foriginal.20261117-170858?auto=format%2Ccompress&q=75&sharp=10&s=215ebec0af288b654abfceda9171468b"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2027-04-13T18:00:00Z",
+        "local": "2027-04-13T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2027-04-13T19:30:00Z",
+        "local": "2027-04-13T12:30:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Better Business Bureau",
+        "address": {
+          "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
+          "address_1": "1010 E Missouri Ave."
         }
       }
     },
@@ -362,5 +578,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-11-17T12:31:12.150Z"
+  "updatedAt": "2026-11-17T21:16:50.915Z"
 }
