@@ -1,42 +1,6 @@
 {
   "events": [
     {
-      "id": "2003017673782",
-      "name": {
-        "text": "WOW Networking",
-        "html": "WOW Networking"
-      },
-      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
-      "description": {
-        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
-      },
-      "url": "https://www.eventbrite.com/e/wow-networking-tickets-2003017673782",
-      "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
-        "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
-        }
-      },
-      "start": {
-        "timezone": "America/Phoenix",
-        "utc": "2026-11-18T20:00:00Z",
-        "local": "2026-11-18T13:00:00"
-      },
-      "end": {
-        "timezone": "America/Phoenix",
-        "utc": "2026-11-18T21:00:00Z",
-        "local": "2026-11-18T14:00:00"
-      },
-      "online_event": true,
-      "venue": {
-        "name": "",
-        "address": {
-          "localized_address_display": "",
-          "address_1": ""
-        }
-      }
-    },
-    {
       "id": "2003012215456",
       "name": {
         "text": "525 Men's Group",
@@ -73,7 +37,79 @@
       }
     },
     {
-      "id": "2003017340786",
+      "id": "2005057210090",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-2005057210090",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-11-25T20:00:00Z",
+        "local": "2026-11-25T13:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-11-25T21:00:00Z",
+        "local": "2026-11-25T14:00:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005057385615",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-2005057385615",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-02T20:00:00Z",
+        "local": "2026-12-02T13:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-02T21:00:00Z",
+        "local": "2026-12-02T14:00:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005055294360",
       "name": {
         "text": "iNET Pura Vida Connect",
         "html": "iNET Pura Vida Connect"
@@ -82,7 +118,7 @@
       "description": {
         "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
       },
-      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-2003017340786",
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-2005055294360",
       "logo": {
         "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
         "original": {
@@ -91,13 +127,193 @@
       },
       "start": {
         "timezone": "America/Phoenix",
-        "utc": "2026-11-19T14:00:00Z",
-        "local": "2026-11-19T07:00:00"
+        "utc": "2026-12-03T14:00:00Z",
+        "local": "2026-12-03T07:00:00"
       },
       "end": {
         "timezone": "America/Phoenix",
-        "utc": "2026-11-19T15:00:00Z",
-        "local": "2026-11-19T08:00:00"
+        "utc": "2026-12-03T15:00:00Z",
+        "local": "2026-12-03T08:00:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005057464852",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-2005057464852",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-09T20:00:00Z",
+        "local": "2026-12-09T13:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-09T21:00:00Z",
+        "local": "2026-12-09T14:00:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005057013502",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-2005057013502",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-10T14:00:00Z",
+        "local": "2026-12-10T07:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-10T15:00:00Z",
+        "local": "2026-12-10T08:00:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005053607314",
+      "name": {
+        "text": "Phoenix Holiday Business Showcase",
+        "html": "Phoenix Holiday Business Showcase"
+      },
+      "summary": "Meet local business owners, make valuable connections, shop for the holidays, and discover new opportunities. Free admission!",
+      "description": {
+        "text": "Meet local business owners, make valuable connections, shop for the holidays, and discover new opportunities. Free admission!"
+      },
+      "url": "https://www.eventbrite.com/e/phoenix-holiday-business-showcase-tickets-2005053607314",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198278355%2F539141404543%2F1%2Foriginal.20261118-214730?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1d1b6a6200b07c16bd2af6cc349db2c2",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198278355%2F539141404543%2F1%2Foriginal.20261118-214730?auto=format%2Ccompress&q=75&sharp=10&s=a36eaa6ecc19ab448e2acda3955d322a"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-16T17:00:00Z",
+        "local": "2026-12-16T10:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-16T19:00:00Z",
+        "local": "2026-12-16T12:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "1010 E Missouri Ave",
+        "address": {
+          "localized_address_display": "1010 East Missouri Avenue, Phoenix, AZ 85014",
+          "address_1": "1010 East Missouri Avenue"
+        }
+      }
+    },
+    {
+      "id": "2005057492936",
+      "name": {
+        "text": "WOW Networking",
+        "html": "WOW Networking"
+      },
+      "summary": "The community for Entrepreneurs, Business Owners, and Influencers to come together.",
+      "description": {
+        "text": "The community for Entrepreneurs, Business Owners, and Influencers to come together."
+      },
+      "url": "https://www.eventbrite.com/e/wow-networking-tickets-2005057492936",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.176&fp-y=0.384&s=c3b36c93b2deff1934370644c8298c7f",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181216548%2F539141404543%2F1%2Foriginal.20260401-172028?auto=format%2Ccompress&q=75&sharp=10&s=d4b49b19c347e4f9be1e3f47b9e29eda"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-16T20:00:00Z",
+        "local": "2026-12-16T13:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-16T21:00:00Z",
+        "local": "2026-12-16T14:00:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005057161946",
+      "name": {
+        "text": "iNET Pura Vida Connect",
+        "html": "iNET Pura Vida Connect"
+      },
+      "summary": "A weekly online room for expats and internationally based professionals building life and business beyond borders.",
+      "description": {
+        "text": "A weekly online room for expats and internationally based professionals building life and business beyond borders."
+      },
+      "url": "https://www.eventbrite.com/e/inet-pura-vida-connect-tickets-2005057161946",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.167&fp-y=0.423&s=36878e776a9ff605fbbdf5697fee247b",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181217867%2F539141404543%2F1%2Foriginal.20260401-173342?auto=format%2Ccompress&q=75&sharp=10&s=76ced4e675cf2169a4d425a2f68e15c6"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-17T14:00:00Z",
+        "local": "2026-12-17T07:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-17T15:00:00Z",
+        "local": "2026-12-17T08:00:00"
       },
       "online_event": true,
       "venue": {
@@ -614,5 +830,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-11-18T19:31:26.450Z"
+  "updatedAt": "2026-11-18T23:08:26.769Z"
 }
