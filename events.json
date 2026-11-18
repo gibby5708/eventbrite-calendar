@@ -1,42 +1,6 @@
 {
   "events": [
     {
-      "id": "2003844480784",
-      "name": {
-        "text": "Phoenix Holiday Business Showcase",
-        "html": "Phoenix Holiday Business Showcase"
-      },
-      "summary": "eet local business owners, make valuable connections, shop for the holidays, and discover new opportunities. Free admission!",
-      "description": {
-        "text": "eet local business owners, make valuable connections, shop for the holidays, and discover new opportunities. Free admission!"
-      },
-      "url": "https://www.eventbrite.com/e/phoenix-holiday-business-showcase-tickets-2003844480784",
-      "logo": {
-        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196479615%2F539141404543%2F1%2Foriginal.20261023-232134?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.509&fp-y=0.244&s=a075ced0f651f05bd6225574bc363dc4",
-        "original": {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196479615%2F539141404543%2F1%2Foriginal.20261023-232134?auto=format%2Ccompress&q=75&sharp=10&s=6146490af254e8fa384edf63d4ed77d8"
-        }
-      },
-      "start": {
-        "timezone": "America/Phoenix",
-        "utc": "2026-11-18T17:00:00Z",
-        "local": "2026-11-18T10:00:00"
-      },
-      "end": {
-        "timezone": "America/Phoenix",
-        "utc": "2026-11-18T19:00:00Z",
-        "local": "2026-11-18T12:00:00"
-      },
-      "online_event": false,
-      "venue": {
-        "name": "1010 E Missouri Ave",
-        "address": {
-          "localized_address_display": "1010 East Missouri Avenue, Phoenix, AZ 85014",
-          "address_1": "1010 East Missouri Avenue"
-        }
-      }
-    },
-    {
       "id": "2003017673782",
       "name": {
         "text": "WOW Networking",
@@ -650,5 +614,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-11-18T11:28:15.708Z"
+  "updatedAt": "2026-11-18T19:31:26.450Z"
 }
