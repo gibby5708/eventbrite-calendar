@@ -361,6 +361,42 @@
       }
     },
     {
+      "id": "2004975974111",
+      "name": {
+        "text": "The Women's Boardroom | Monthly Working Sessions for Women Entrepreneurs",
+        "html": "The Women&#39;s Boardroom | Monthly Working Sessions for Women Entrepreneurs"
+      },
+      "summary": "Bring YOUR business questions, exchange experience, explore options, and build valuable connections with women entrepreneurs.",
+      "description": {
+        "text": "Bring YOUR business questions, exchange experience, explore options, and build valuable connections with women entrepreneurs."
+      },
+      "url": "https://www.eventbrite.com/e/the-womens-boardroom-monthly-working-sessions-for-women-entrepreneurs-tickets-2004975974111",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198193993%2F539141404543%2F1%2Foriginal.20261117-210320?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.525&fp-y=0.49&s=fe27a880eb9860a8e713633f0f6c6fc4",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198193993%2F539141404543%2F1%2Foriginal.20261117-210320?auto=format%2Ccompress&q=75&sharp=10&s=1e32696fa32c572d0ca9555864644e2b"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-16T17:00:00Z",
+        "local": "2027-02-16T10:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-16T19:00:00Z",
+        "local": "2027-02-16T12:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Mesa Business Builder @ The Studios",
+        "address": {
+          "localized_address_display": "59 East 1st Street #Floor 2, Mesa, AZ 85201",
+          "address_1": "59 East 1st Street"
+        }
+      }
+    },
+    {
       "id": "2004961678352",
       "name": {
         "text": "Network Together | Phoenix Connections",
@@ -393,6 +429,42 @@
         "address": {
           "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
           "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "2004976274008",
+      "name": {
+        "text": "The Women's Boardroom | Monthly Working Sessions for Women Entrepreneurs",
+        "html": "The Women&#39;s Boardroom | Monthly Working Sessions for Women Entrepreneurs"
+      },
+      "summary": "Bring YOUR business questions, exchange experience, explore options, and build valuable connections with women entrepreneurs.",
+      "description": {
+        "text": "Bring YOUR business questions, exchange experience, explore options, and build valuable connections with women entrepreneurs."
+      },
+      "url": "https://www.eventbrite.com/e/the-womens-boardroom-monthly-working-sessions-for-women-entrepreneurs-tickets-2004976274008",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198193993%2F539141404543%2F1%2Foriginal.20261117-210320?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.525&fp-y=0.49&s=fe27a880eb9860a8e713633f0f6c6fc4",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198193993%2F539141404543%2F1%2Foriginal.20261117-210320?auto=format%2Ccompress&q=75&sharp=10&s=1e32696fa32c572d0ca9555864644e2b"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-03-16T17:00:00Z",
+        "local": "2027-03-16T10:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-03-16T19:00:00Z",
+        "local": "2027-03-16T12:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Mesa Business Builder @ The Studios",
+        "address": {
+          "localized_address_display": "59 East 1st Street #Floor 2, Mesa, AZ 85201",
+          "address_1": "59 East 1st Street"
         }
       }
     },
@@ -578,5 +650,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-11-17T21:16:50.915Z"
+  "updatedAt": "2026-11-18T02:56:42.279Z"
 }
