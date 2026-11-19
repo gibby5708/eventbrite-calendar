@@ -73,6 +73,42 @@
       }
     },
     {
+      "id": "2005095937926",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005095937926",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-03T18:00:00Z",
+        "local": "2026-12-03T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-03T19:15:00Z",
+        "local": "2026-12-03T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
       "id": "2005057464852",
       "name": {
         "text": "WOW Networking",
@@ -134,6 +170,42 @@
         "timezone": "America/Phoenix",
         "utc": "2026-12-10T15:00:00Z",
         "local": "2026-12-10T08:00:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005096062298",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005096062298",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-10T18:00:00Z",
+        "local": "2026-12-10T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-10T19:15:00Z",
+        "local": "2026-12-10T12:15:00"
       },
       "online_event": true,
       "venue": {
@@ -758,5 +830,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-11-19T09:24:46.477Z"
+  "updatedAt": "2026-11-19T18:36:01.446Z"
 }
