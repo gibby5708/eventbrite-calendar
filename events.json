@@ -289,6 +289,42 @@
       }
     },
     {
+      "id": "2005101322030",
+      "name": {
+        "text": "525 Men's END-OF-YEAR AWARDS BUFFET",
+        "html": "525 Men&#39;s END-OF-YEAR AWARDS BUFFET"
+      },
+      "summary": "Celebrate the men, relationships, achievements, and contributions that made 2026 memorable at the 525 Men's End-of-Year Awards Buffet!",
+      "description": {
+        "text": "Celebrate the men, relationships, achievements, and contributions that made 2026 memorable at the 525 Men's End-of-Year Awards Buffet!"
+      },
+      "url": "https://www.eventbrite.com/e/525-mens-end-of-year-awards-buffet-tickets-2005101322030",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198348890%2F539141404543%2F1%2Foriginal.20261119-203543?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.08&fp-y=0.138&s=de6c189c1c8014ee3581da3f84204ec7",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198348890%2F539141404543%2F1%2Foriginal.20261119-203543?auto=format%2Ccompress&q=75&sharp=10&s=ee6cda7ed0a0801da70b51ccc8b1f4c9"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-17T00:00:00Z",
+        "local": "2026-12-16T17:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-17T02:00:00Z",
+        "local": "2026-12-16T19:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Dragon Wok | Fine Chinese Restaurant",
+        "address": {
+          "localized_address_display": "727 West Ray Road #B1, Gilbert, AZ 85233",
+          "address_1": "727 West Ray Road"
+        }
+      }
+    },
+    {
       "id": "2005057161946",
       "name": {
         "text": "iNET Pura Vida Connect",
@@ -433,6 +469,78 @@
       }
     },
     {
+      "id": "2005098468495",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005098468495",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-14T18:00:00Z",
+        "local": "2027-01-14T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-14T19:15:00Z",
+        "local": "2027-01-14T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005108512537",
+      "name": {
+        "text": "626 Women's Group",
+        "html": "626 Women&#39;s Group"
+      },
+      "summary": "Casual monthly gathering for women to build friendships, share meaningful conversations, and celebrate who they are and who they're becoming",
+      "description": {
+        "text": "Casual monthly gathering for women to build friendships, share meaningful conversations, and celebrate who they are and who they're becoming"
+      },
+      "url": "https://www.eventbrite.com/e/626-womens-group-tickets-2005108512537",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198363046%2F539141404543%2F1%2Foriginal.20261120-003103?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.297&fp-y=0.211&s=f815277acb57eb02ca5fe29e2daf0f93",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198363046%2F539141404543%2F1%2Foriginal.20261120-003103?auto=format%2Ccompress&q=75&sharp=10&s=cb1e1310fd36b308a15c221abea8310e"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-15T00:00:00Z",
+        "local": "2027-01-14T17:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-15T02:00:00Z",
+        "local": "2027-01-14T19:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Boulders on Southern",
+        "address": {
+          "localized_address_display": "1010 W Southern Ave, Mesa, AZ 85210",
+          "address_1": "1010 W Southern Ave"
+        }
+      }
+    },
+    {
       "id": "2004975104510",
       "name": {
         "text": "The Women's Boardroom | Monthly Working Sessions for Women Entrepreneurs",
@@ -465,6 +573,114 @@
         "address": {
           "localized_address_display": "59 East 1st Street #Floor 2, Mesa, AZ 85201",
           "address_1": "59 East 1st Street"
+        }
+      }
+    },
+    {
+      "id": "2005098564783",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005098564783",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-21T18:00:00Z",
+        "local": "2027-01-21T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-21T19:15:00Z",
+        "local": "2027-01-21T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005102440375",
+      "name": {
+        "text": "525 Men's Group",
+        "html": "525 Men&#39;s Group"
+      },
+      "summary": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support.",
+      "description": {
+        "text": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support."
+      },
+      "url": "https://www.eventbrite.com/e/525-mens-group-tickets-2005102440375",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198350483%2F539141404543%2F1%2Foriginal.20261119-205337?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e254fa96dced529dbb46b4ad22dac918",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198350483%2F539141404543%2F1%2Foriginal.20261119-205337?auto=format%2Ccompress&q=75&sharp=10&s=34a1ef7a3d1571ebca10b882d01c1bec"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-28T00:00:00Z",
+        "local": "2027-01-27T17:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-28T02:00:00Z",
+        "local": "2027-01-27T19:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Spokes On Southern",
+        "address": {
+          "localized_address_display": "1470 East Southern Avenue, Tempe, AZ 85282",
+          "address_1": "1470 East Southern Avenue"
+        }
+      }
+    },
+    {
+      "id": "2005098854650",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005098854650",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-28T18:00:00Z",
+        "local": "2027-01-28T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-01-28T19:15:00Z",
+        "local": "2027-01-28T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
         }
       }
     },
@@ -505,6 +721,42 @@
       }
     },
     {
+      "id": "2005098945923",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005098945923",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-04T18:00:00Z",
+        "local": "2027-02-04T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-04T19:15:00Z",
+        "local": "2027-02-04T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
       "id": "2004961522887",
       "name": {
         "text": "Network Together | Phoenix Connections",
@@ -537,6 +789,78 @@
         "address": {
           "localized_address_display": "1010 E Missouri Ave., Phoenix, AZ 85014",
           "address_1": "1010 E Missouri Ave."
+        }
+      }
+    },
+    {
+      "id": "2005099055250",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005099055250",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-11T18:00:00Z",
+        "local": "2027-02-11T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-11T19:15:00Z",
+        "local": "2027-02-11T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005108731191",
+      "name": {
+        "text": "626 Women's Group",
+        "html": "626 Women&#39;s Group"
+      },
+      "summary": "Casual monthly gathering for women to build friendships, share meaningful conversations, and celebrate who they are and who they're becoming",
+      "description": {
+        "text": "Casual monthly gathering for women to build friendships, share meaningful conversations, and celebrate who they are and who they're becoming"
+      },
+      "url": "https://www.eventbrite.com/e/626-womens-group-tickets-2005108731191",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198363657%2F539141404543%2F1%2Foriginal.20261120-004548?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f3cea67f515d561d7625fbc21ee08bb7",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198363657%2F539141404543%2F1%2Foriginal.20261120-004548?auto=format%2Ccompress&q=75&sharp=10&s=600b53b4e94cae010b7b5388be7987ba"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-12T00:00:00Z",
+        "local": "2027-02-11T17:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-12T02:00:00Z",
+        "local": "2027-02-11T19:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Boulders on Southern",
+        "address": {
+          "localized_address_display": "1010 W Southern Ave, Mesa, AZ 85210",
+          "address_1": "1010 W Southern Ave"
         }
       }
     },
@@ -577,6 +901,150 @@
       }
     },
     {
+      "id": "2005099122451",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005099122451",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-18T18:00:00Z",
+        "local": "2027-02-18T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-18T19:15:00Z",
+        "local": "2027-02-18T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005103560726",
+      "name": {
+        "text": "525 Men's Group",
+        "html": "525 Men&#39;s Group"
+      },
+      "summary": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support.",
+      "description": {
+        "text": "A relaxed space for high-achieving men to talk openly, connect with peers, and find real support. Real men. Real talk. Real support."
+      },
+      "url": "https://www.eventbrite.com/e/525-mens-group-tickets-2005103560726",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198351516%2F539141404543%2F1%2Foriginal.20261119-210855?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=baeb4aa33e04a567bea1bbc2d2e34cb1",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198351516%2F539141404543%2F1%2Foriginal.20261119-210855?auto=format%2Ccompress&q=75&sharp=10&s=fb6e09b11d6f2d9d93e17ef0fa77fbe3"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-25T00:00:00Z",
+        "local": "2027-02-24T17:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-25T02:00:00Z",
+        "local": "2027-02-24T19:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Spokes On Southern",
+        "address": {
+          "localized_address_display": "1470 East Southern Avenue, Tempe, AZ 85282",
+          "address_1": "1470 East Southern Avenue"
+        }
+      }
+    },
+    {
+      "id": "2005099274907",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005099274907",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-25T18:00:00Z",
+        "local": "2027-02-25T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-02-25T19:15:00Z",
+        "local": "2027-02-25T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005099317033",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005099317033",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-03-04T18:00:00Z",
+        "local": "2027-03-04T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-03-04T19:15:00Z",
+        "local": "2027-03-04T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
       "id": "2004961678352",
       "name": {
         "text": "Network Together | Phoenix Connections",
@@ -613,6 +1081,42 @@
       }
     },
     {
+      "id": "2005099549729",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005099549729",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-03-11T18:00:00Z",
+        "local": "2027-03-11T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2027-03-11T19:15:00Z",
+        "local": "2027-03-11T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
       "id": "2004976274008",
       "name": {
         "text": "The Women's Boardroom | Monthly Working Sessions for Women Entrepreneurs",
@@ -645,6 +1149,78 @@
         "address": {
           "localized_address_display": "59 East 1st Street #Floor 2, Mesa, AZ 85201",
           "address_1": "59 East 1st Street"
+        }
+      }
+    },
+    {
+      "id": "2005099680119",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005099680119",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2027-03-18T18:00:00Z",
+        "local": "2027-03-18T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2027-03-18T19:15:00Z",
+        "local": "2027-03-18T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005100026154",
+      "name": {
+        "text": "Global Authorship Impact Forum –  Connect. Publish. Influence.",
+        "html": "Global Authorship Impact Forum –  Connect. Publish. Influence."
+      },
+      "summary": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact.",
+      "description": {
+        "text": "Learn from Entrepreneur Authors. Become an Entrepreneur Author. Grow Your Authority, Influence & Impact."
+      },
+      "url": "https://www.eventbrite.com/e/global-authorship-impact-forum-connect-publish-influence-tickets-2005100026154",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.977&fp-y=0.297&s=9a2351aea830be2358dd5d2eb9241a76",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188475715%2F539141404543%2F1%2Foriginal.20260708-180546?auto=format%2Ccompress&q=75&sharp=10&s=5f1630c230484a343bb6e4d4a6a771fe"
+        }
+      },
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2027-03-18T18:00:00Z",
+        "local": "2027-03-18T11:00:00"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "utc": "2027-03-18T19:15:00Z",
+        "local": "2027-03-18T12:15:00"
+      },
+      "online_event": true,
+      "venue": {
+        "name": "",
+        "address": {
+          "localized_address_display": "",
+          "address_1": ""
         }
       }
     },
@@ -830,5 +1406,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-11-19T18:36:01.446Z"
+  "updatedAt": "2026-11-20T00:53:24.153Z"
 }
