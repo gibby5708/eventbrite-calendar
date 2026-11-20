@@ -217,6 +217,42 @@
       }
     },
     {
+      "id": "2005148726819",
+      "name": {
+        "text": "Topgolf Business Owner Meetup at Topgolf Gilbert",
+        "html": "Topgolf Business Owner Meetup at Topgolf Gilbert"
+      },
+      "summary": "Two free guest visits, with golf included, for new guests at Topgolf Gilbert. Fridays, 12–2 PM Arizona time.",
+      "description": {
+        "text": "Two free guest visits, with golf included, for new guests at Topgolf Gilbert. Fridays, 12–2 PM Arizona time."
+      },
+      "url": "https://www.eventbrite.com/e/topgolf-business-owner-meetup-at-topgolf-gilbert-tickets-2005148726819",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198398309%2F539141404543%2F1%2Foriginal.20261120-155138?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.061&fp-y=0.397&s=40398c3b17901b68300f98d105415cce",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198398309%2F539141404543%2F1%2Foriginal.20261120-155138?auto=format%2Ccompress&q=75&sharp=10&s=cf5f9cf33f0ff1f7b6fd187ce7683efb"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-11T19:00:00Z",
+        "local": "2026-12-11T12:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-11T21:00:00Z",
+        "local": "2026-12-11T14:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Topgolf Gilbert",
+        "address": {
+          "localized_address_display": "1689 South Santan Village Parkway, Gilbert, AZ 85295",
+          "address_1": "1689 South Santan Village Parkway"
+        }
+      }
+    },
+    {
       "id": "2005053607314",
       "name": {
         "text": "Phoenix Holiday Business Showcase",
@@ -357,6 +393,42 @@
         "address": {
           "localized_address_display": "",
           "address_1": ""
+        }
+      }
+    },
+    {
+      "id": "2005148962524",
+      "name": {
+        "text": "Topgolf Business Owner Meetup at Topgolf Gilbert",
+        "html": "Topgolf Business Owner Meetup at Topgolf Gilbert"
+      },
+      "summary": "Two free guest visits, with golf included, for new guests at Topgolf Gilbert. Fridays, 12–2 PM Arizona time.",
+      "description": {
+        "text": "Two free guest visits, with golf included, for new guests at Topgolf Gilbert. Fridays, 12–2 PM Arizona time."
+      },
+      "url": "https://www.eventbrite.com/e/topgolf-business-owner-meetup-at-topgolf-gilbert-tickets-2005148962524",
+      "logo": {
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198398309%2F539141404543%2F1%2Foriginal.20261120-155138?crop=focalpoint&fit=crop&h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.061&fp-y=0.397&s=40398c3b17901b68300f98d105415cce",
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198398309%2F539141404543%2F1%2Foriginal.20261120-155138?auto=format%2Ccompress&q=75&sharp=10&s=cf5f9cf33f0ff1f7b6fd187ce7683efb"
+        }
+      },
+      "start": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-18T19:00:00Z",
+        "local": "2026-12-18T12:00:00"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "utc": "2026-12-18T21:00:00Z",
+        "local": "2026-12-18T14:00:00"
+      },
+      "online_event": false,
+      "venue": {
+        "name": "Topgolf Gilbert",
+        "address": {
+          "localized_address_display": "1689 South Santan Village Parkway, Gilbert, AZ 85295",
+          "address_1": "1689 South Santan Village Parkway"
         }
       }
     },
@@ -1406,5 +1478,5 @@
     }
   ],
   "organizationId": "541479920363",
-  "updatedAt": "2026-11-20T08:22:30.113Z"
+  "updatedAt": "2026-11-20T17:11:06.830Z"
 }
